@@ -5,7 +5,6 @@ Integrating javascript game with Machine Learning
 
 # Resources 
 
-Code for SnakeGame : http://zetcode.com/javascript/snake/ 
 Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/Y_i2PhkNc/
 
 To move up ? Show your fingers count is 1
