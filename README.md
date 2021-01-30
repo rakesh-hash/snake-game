@@ -5,7 +5,7 @@ we have done the project as a team of 2 members:
 2. 18PA1A05C4
 
 # snake_game_ml
-play snake game with your head and hands.
+play snake game with your fingers.
 
 Integrating javascript game with Machine Learning
 
@@ -21,3 +21,5 @@ To move left side ? Show your fingers count is 3
 
 To move right side ? Show your fingers count is 4
 
+# Heroku Link
+https://snake-game234.herokuapp.com/index.html
